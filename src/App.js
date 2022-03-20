@@ -26,7 +26,7 @@ function App() {
   return <>
     <BrowserRouter>
       
-        <div style={{display:"grid",gridTemplateColumns:"15% 85%"}}>
+        <div style={{display:"grid",gridTemplateColumns:"17% 80%"}}>
             <div >
                 <Sidebar/>
             </div>
