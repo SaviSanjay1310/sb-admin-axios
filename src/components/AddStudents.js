@@ -12,7 +12,7 @@ function AddStudents(props) {
     let [email,setEmail]=useState("");
     let [mobile,setMobile]=useState("");
     let [cls,setCls]=useState("");
-    const url = "https://61ee1f7ed593d20017dbac50.mockapi.io/students/"
+    const url = "https://623092dcf113bfceed55793c.mockapi.io/students"
 
 
     //Using axios
